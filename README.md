@@ -1,5 +1,6 @@
 # Groq-Memora_Ai_Bot
 MemoraAI is a Streamlit-based AI chatbot powered by Groq LLMs with persistent memory. Designed for interactive and intelligent conversations it allows users to chat naturally while maintaining session history making each interaction context-aware.
+
 Key Features:
 
 Memory-Enabled Chat: Tracks conversation history using LangChain’s InMemoryChatMessageHistory.
@@ -27,4 +28,5 @@ Experimenting with AI memory and contextual responses
 
 
 Why MemoraAI?
+
 It combines cutting-edge AI with a practical memory-enabled conversational experience. Ideal for educators  developers and AI enthusiasts looking for a customizable and interactive chatbot demo.
